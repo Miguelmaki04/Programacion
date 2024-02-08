@@ -1,7 +1,7 @@
-package romeroLopezMiguelAngel.Ejercicio3;
+package Practica4.romeroLopezMiguelAngel.Ejercicio3;
 
 import java.util.Random;
-import java.util.Scanner;
+
 public abstract class Personaje {
     protected String nombre;
     public int nivel;

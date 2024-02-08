@@ -1,4 +1,4 @@
-package romeroLopezMiguelAngel.Ejercicio3;
+package Practica4.romeroLopezMiguelAngel.Ejercicio3;
 
 public class Ejercicio3 {
     public static void main() {

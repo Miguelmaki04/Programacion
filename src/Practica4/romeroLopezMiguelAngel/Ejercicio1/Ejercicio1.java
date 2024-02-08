@@ -1,4 +1,4 @@
-package romeroLopezMiguelAngel.Ejercicio1;
+package Practica4.romeroLopezMiguelAngel.Ejercicio1;
 
 public class Ejercicio1 {
     enum Color {

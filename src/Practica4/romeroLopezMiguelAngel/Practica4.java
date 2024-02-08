@@ -1,7 +1,7 @@
-package romeroLopezMiguelAngel;
+package Practica4.romeroLopezMiguelAngel;
 
-import romeroLopezMiguelAngel.Ejercicio2.Ejercicio2;
-import romeroLopezMiguelAngel.Ejercicio3.Ejercicio3;
+import Practica4.romeroLopezMiguelAngel.Ejercicio2.Ejercicio2;
+import Practica4.romeroLopezMiguelAngel.Ejercicio3.Ejercicio3;
 
 import java.util.Scanner;
 

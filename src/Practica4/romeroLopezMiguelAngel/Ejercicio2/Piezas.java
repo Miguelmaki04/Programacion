@@ -1,4 +1,4 @@
-package romeroLopezMiguelAngel.Ejercicio2;
+package Practica4.romeroLopezMiguelAngel.Ejercicio2;
 
 abstract class Pieza {
     enum Color { BLANCO, NEGRO }
