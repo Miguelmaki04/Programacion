@@ -1,9 +1,11 @@
 package Interfaces;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
+
 public class Ej_clase4 {
 
 
@@ -13,6 +15,8 @@ public class Ej_clase4 {
             return num2.compareTo(num1);
         }
     }
+
+    public class Main {
         public void main(String[] args) {
             List<Integer> numeros = new ArrayList<>();
             Random random = new Random();
@@ -27,7 +31,7 @@ public class Ej_clase4 {
 
             System.out.println("Números ordenados en sentido decreciente:");
             System.out.println(numeros);
+        }
     }
+
 }
-
-
